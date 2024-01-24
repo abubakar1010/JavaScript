@@ -6,7 +6,7 @@ let name = "Muhammad"
 
 let age = 19
 
-let isLogedIn = true 
+let BooleanIsLoggedIn = true 
 
 let state;
 
@@ -34,4 +34,4 @@ console.log(typeof age); // the output is number
 
 console.log(typeof state); // the output is undefined
 
-console.log(typeof isLogedIn); // the output is boolean
+console.log(typeof BooleanIsLoggedIn); // the output is boolean
