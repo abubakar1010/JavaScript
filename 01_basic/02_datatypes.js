@@ -26,12 +26,12 @@ let state;
 
 //object
 
-console.log(typeof null); // the output is object
+// console.log(typeof null); // the output is object
 
-console.log(typeof name); // the output is string
+// console.log(typeof name); // the output is string
 
-console.log(typeof age); // the output is number
+// console.log(typeof age); // the output is number
 
-console.log(typeof state); // the output is undefined
+// console.log(typeof state); // the output is undefined
 
-console.log(typeof BooleanIsLoggedIn); // the output is boolean
+// console.log(typeof BooleanIsLoggedIn); // the output is boolean
