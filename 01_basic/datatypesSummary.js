@@ -19,6 +19,7 @@ let valueInSymbol = Symbol("83")
 
 let anotherValueInSymbol = Symbol("83")
 
+console.log(valueInSymbol == anotherValueInSymbol)
 console.log(valueInSymbol === anotherValueInSymbol)
 
 // value of 18 and 20 number line is not same
@@ -45,3 +46,11 @@ let firstObject = {
 const firstFunction = function(){
     console.log("hello world")
 }
+
+
+
+
+// ------------------Memory in js --------------------------
+
+
+//Stack (primitive), Heap (Reference/ Non-Primitive)
