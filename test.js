@@ -1,1 +1,1 @@
-console.log("abu bakar")
+console.log(7)
